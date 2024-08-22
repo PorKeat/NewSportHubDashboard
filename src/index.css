@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .relative-label {
+  position: relative;
+  margin-top: 1.5rem;
+}
+
+.relative-label input {
+  padding-top: 0.5rem;
+}
+
+.relative-label label {
+  position: absolute;
+  top: 1rem;
+  background-color: white;
+  left: 0.4rem;
+  padding: 0 0.15rem;
+  border-radius: 5px;
+  color: #666;
+  transition: all 0.2s ease-out;
+  pointer-events: none;
+  transform-origin: top left;
+}
+
+.relative-label input:focus + label,
+.relative-label input:not(:placeholder-shown) + label {
+  top: -0.6rem;
+  left: 0.5rem;
+  font-size: 0.75rem;
+  color: #222162;
+  font-size: 14px;
+  font-weight: 700;
+} */
