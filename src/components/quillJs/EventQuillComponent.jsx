@@ -201,16 +201,16 @@ const EventQuillComponent = () => {
                   className="border border-gray-300 mt-1 p-2 rounded-md w-full"
                 >
                   <option value="">Select a category</option>
-                  <option value="b4686c69-a4fb-4284-9a0c-8c8e271836f3">
+                  <option value="1f476426-53cd-4831-b575-3ea9f69ed090">
                     Football
                   </option>
-                  <option value="f4c3597b-2155-4c63-9a7a-5dea3434ccaa">
+                  <option value="02b8ee87-374f-42d0-8a17-27867be2dba2">
                     Basketball
                   </option>
-                  <option value="2fe56924-fe8a-4ccd-8792-432fe3885692">
+                  <option value="7ce1a035-37bf-4296-85bf-0086c33261e8">
                     Volleyball
                   </option>
-                  <option value="6da6376b-932a-4f5c-a7aa-c70dacd7b705">
+                  <option value="aa5d0912-3ab6-46ca-a55d-d687436b2ad1">
                     Badminton
                   </option>
                 </Field>
