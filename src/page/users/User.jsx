@@ -101,8 +101,8 @@ export default function User() {
     const payload = {
       user_id: userToUpdate,
       role_id: checkStatus
-        ? "1513859f-71ed-460e-b18d-39862133d81f"
-        : "cfacf5e3-e969-41c6-9996-df90a173137a",
+        ? "fde48159-8b35-4e2b-bfa9-e36a549e9997"
+        : "c2fae84d-7a07-469c-925f-3bb9be2fad73",
     };
     console.log("Role", payload.role_id);
     const updateUrl = `${baseUrl}update-user-role/`;
